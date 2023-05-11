@@ -16,9 +16,9 @@ eospatial Creator In Unityのサンプルリポジトリです。API Keyを設�
 2. 1.cのMaps Tile APIの有効化と同じ要領で、ARCore APIを有効にします
 
 ## 2. Unityの設定
-### 2.1 Unityプロジェクトの取得
-
+### 2.1 Unityプロジェクト
 1. 本リポジトリからUnityプロジェクトを取得します
+2. Projectを表示してAssets/Samples/ARCore Extentions/1.37.0/Geospatial Sample/ScenesのGeospatialシーンを開きます
 
 ### 2.2 Android API Keyの設定
 1. Project Settingを開きます
